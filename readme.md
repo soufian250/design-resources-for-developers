@@ -4,7 +4,7 @@
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
-## Press Ctrl+"the link to open in new tab"
+## Press Ctrl+"the link to open in new tab" (Windows and Linux) on CMD+click (in MacOS)
 
 ## Table of Contents
 
