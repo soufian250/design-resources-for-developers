@@ -4,6 +4,8 @@
 
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
+## Press Ctrl+"the link to open in new tab"
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
