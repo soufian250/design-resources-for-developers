@@ -96,6 +96,20 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+
+## ICONES
+
+>Websites and resources that help with choices related to icones
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [worldvectorlogo](https://worldvectorlogo.com/)| Vector logos |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
 ## Colors
 
 >Websites and resources that help with choices related to colors
