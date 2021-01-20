@@ -33,6 +33,7 @@
 - [Design Inspiration](#Design-inspiration)
 - [Image Compression](#Image-compression)
 - [Others](#others)
+- [Custom Select Plugin](#custom-select-plugin)
 
 ## UI Graphics
 
@@ -739,6 +740,25 @@
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
+
+
+
+## Custom Select Plugin
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Choices](https://joshuajohnson.co.uk/Choices/)| Inconspicuous, pure JavaScript, but well documented with all you might need.
+| [Chosen](https://harvesthq.github.io/chosen/)| Very simple with only a few events available.
+| [Select2](https://select2.org/)| Popular, used e.g. in Woocommerce plugin (WordPress ecommerce extension). Docs looks bit messy.
+| [SelectBoxIt](http://gregfranko.com/jquery.selectBoxIt.js/)| 	Heavy dependencies and no multiple select. Bootstrap support
+| [Selectmenu](http://jqueryui.com/selectmenu/)| If using jQueryUI anyway, and you need only basic functionality, it might be a good choice.
+| [Selectize](https://selectize.github.io/selectize.js/)| 	Bootstrap support. Simple similar to Chosen.
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+
 
 ## Others
 
